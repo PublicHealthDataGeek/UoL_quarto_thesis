@@ -1,0 +1,18 @@
+# Paper 3: Build it but will they come? Exploring the impact of introducing contraflow cycling on cycling volumes with crowd-sourced data {#sec-Chapter4}
+
+*Again an extract from my thesis showing how this chapter can be written and how the references appear at the end of the chapter*
+
+## Abstract
+
+Contraflow cycling on one-way streets is a low cost intervention that is safe and can improve the cycling experience. The evidence on its impact on cycling participation is patchy and based on small studies involving a few streets and short duration of follow up. In this paper, we use crowd-sourced data to assess the impact of introducing contraflow cycling on cycling volumes on multiple one-way streets. We qualitatively assess factors that are associated with change in cycling volume on such infrastructure.
+
+Using a primary dataset of roads where contraflow cycling was introduced in inner London between April 2018 and October 2019, we matched these roads with monthly Strava Metro cycling count data before and after the intervention. We identified the count direction as either with or against motor vehicle flow. We generated expected counts adjusted for changes in Strava trips, users, seasonality and time of year by examining global change in monthly Strava counts during the study period. We used national cycle infrastructure design guidance for contraflow infrastructure and Google Street View to qualitatively assess the quality of the contraflow infrastructure.
+
+There were 28 one-way streets and 14 two-way streets (which were converted to one-way streets) that introduced contraflow cycling. Three one-way streets experienced significant increases in mean contraflow trips (260, 630 and 1750 percent) that were much higher than expected. They also had increased numbers of people post-implementation. A number of other streets had higher counts post-intervention. Increases in contraflow cycling were less apparent for the former two-way roads. Illegal contraflow cycling was popular on many streets pre-introduction. Qualitative assessment of 12 streets demonstrated that local context such as connectivity, protected entrances and segregation of infrastructure and external factors (e.g. construction) were important in determining whether the intervention increased contraflow cycling.
+
+We have found that the introduction of contraflow cycling can increase cycling participation on one-way streets but that local factors are important in determining volumes. Large-scale adoption of this low cost infrastructure could significantly improve cycle routes and networks. Legislative change to make all one-way streets contraflow by default would facilitate such implementation. Further work could utilise other data sources to assess the representativeness of the Strava Metro data and to triangulate these findings.
+
+## Introduction
+
+Contraflow cycling, where cycling occurs bidirectionally along a road that is limited to one-way for motor vehicles, can improve cycling networks and routes by making them more coherent, direct, attractive, comfortable and safe [@dft2020a]. It can improve the cycling experience by enabling cyclists to use quieter rather than busy streets; make journeys more direct thus reducing the distance, energy and time; and simplify journey planning by using the same road each way [@presto2010]. Furthermore, it has been claimed to increase cycling volumes [@pritchard2019; @bjørnskau2012; @burkin2019; @ryley1998] and result in route substitution onto the new infrastructure [@pritchard2019].
+

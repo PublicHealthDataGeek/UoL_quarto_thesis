@@ -1,0 +1,47 @@
+# Discussion
+
+*This qmd file contains both the discussion and conclusion. I dont know quite why it works like this but then labels the Conculsion as a separate chapter but it works so I have rolled with it!*
+
+## Overview
+
+In this chapter the key findings for each of the research questions are presented. The body of research is then considered in terms of the original aim by discussing infrastructure evaluation, addressing the research gaps and generating evidence for policy-makers. Limitations of the research are then presented followed by policy recommendations and proposed areas for future research. The section finishes with the Conclusion.
+
+## Key findings
+
+This thesis sought to evaluate the impact of cycling infrastructure using large observational datasets. To do this, three research questions were developed. This section presents the key findings for each research question.
+
+### RQ1: What cycling infrastructure exists in London?
+
+This question was explored in Chapter 2 in the paper *"Is cycling infrastructure in London safe and equitable? Evidence from the cycling infrastructure database"*. This was the first analysis of the London cycling infrastructure database (CID) and analysed cycling infrastructure provision and cycle lane quality. It demonstrated that the quantity and quality of infrastructure was not equal across London. People living in outer London had less infrastructure that provided safe space for cycling than inner London. This pattern persisted when adjusted for area and population but was inverted when adjusted for commuter cycling. Traffic calming was the most common infrastructure and found in 58,585 locations. Just six percent of on-road cycle lane length was physically segregated from motor traffic. Estimated mean compliance with national design guidance [@dft2020a] for protection of cyclists in cycle lanes from motor vehicle traffic based on segregation and road speed limits was 22%. This varied by location with 64% of inner London boroughs exceeding the mean compliance compared to just 16% of outer London boroughs. Estimated compliance was higher than perhaps the low levels of physical segregation would predict. This was due to low road speed limits making non-physical separation acceptable i.e. compliance was achieved automatically rather than through deliberately-designed infrastructure.
+
+................................................................................
+
+
+
+
+
+## Interpretation and contextualisation of the thesis
+
+The aim of this thesis was to contribute original research evaluating the effect of cycling infrastructure on cyclist safety and participation using large, observational datasets to address research gaps in this field and generate evidence that can influence policy and have real-world impact.
+
+### Evaluating infrastructure
+
+Paper 1 used a new database for London containing 234,251 cycling infrastructure objects to examine common evaluation questions such as what type, how much and where infrastructure is located. It also compared the provision of infrastructure that aimed to promote safe cycling space between areas, taking into account factors such as cycling volume, population size and area to make fairer comparisons, before evaluating the quality of infrastructure against a criteria. These comparative and evaluative approaches could be considered a form of benchmarking which is of particular interest to policy-makers [@bowerman2002; @papaioannou2006; @northcott2005].
+
+However, such approaches can be misleading. Paper 1 identified that just six percent of on-road cycle lane length in London was physically segregated (fully or partially) but this resulted in 22% compliance with national design standards. The global reductions in road speed limits to 20mph that have occurred across London (see Appendix C, @fig-speed-limit) will mean that such compliance will automatically increase without any improvements in segregation from motor vehicles. So although cyclist crashes, casualties and participation may improve as speed reduction is effective [@mulvaney2015; @phillips2018], cycling safety perceptions will not improve as the infrastructure present is not segregated and, as established in the Introduction, segregation is vital to increase such perceptions [@misra2015; @dft2020; @tfl2017; @steerdaviesgleave2012]. Furthermore, recent research has shown that 20mph speed limits have minimal impact on such perceptions [@williams2022]. However, policy-makers may see that compliance with design standards has increased and believe that the infrastructure is of appropriate quality and consequently will improve cycling safety and participation.
+
+Papers 2 and 3 used large quantities of observational data at a city-wide level over many years to evaluate whether a particular type of cycling infrastructure altered cycling crashes and volumes. This type of question is extremely important as it determines what is effective and therefore what should be prioritised and funded by policy-makers [@evaluationtaskforce2023a; @evaluationtaskforce2023b]. The quantitative approaches taken in Papers 2 and 3 are essential and appropriate to answering such questions. The qualitative examination undertaken in Paper 3 is useful as it teases out the context in which interventions may work and why, what on paper seem to be good implementations, may not work in practice.
+
+However, using observational data that may be new (such as the contraflow cycling infrastructure) or under-explored (e.g. Strava Metro data) and deriving data such as crash or casualty rates using denominators that are imperfect can be challenging. In particularly, this data is subject to uncertainty. Some of these uncertainties were known and quantified or accounted for whilst others could only be acknowledged. The research presented in this thesis communicates these uncertainties so that the quality and application of the evidence can be assessed by readers and others.
+
+................................................................................
+
+
+
+# Conclusion
+
+This thesis has evaluated cycling infrastructure in London using large observational data with a particular focus on cyclist safety and participation. It has discovered that there is no evidence that contraflow cycling in unsafe in the UK, contrary to widely-held beliefs, and that it can increase cycling participation. However, it has also shown that cycling infrastructure is not distributed equally across London and may not be of the quality that provides safe space for cycling or that appeals to everyone.
+
+Ambitions for active travel to be the default choice for short urban journeys to reap the individual and population benefits will not be achieved without high-quality infrastructure that is safe, coherent, direct, comfortable, attractive and enables all to cycle. Making large datasets available to researchers could improve evaluation of cycling infrastructure in particular by knowing where, when and what infrastructure is implemented and improving estimates of cycling volumes across entire areas and time periods. However, researchers need to be aware of the limitations of such data and the methods used to evaluate infrastructure. Further research could improve such evaluation by examining route substitution, improving denominators and incorporating qualitative assessments.
+
+The research has already had an impact through presentation of the contraflow cycling findings to influential UK government departments such as Active Travel England, the Department for Transport, Public Health Scotland and local government such as the Urban Transport Group.

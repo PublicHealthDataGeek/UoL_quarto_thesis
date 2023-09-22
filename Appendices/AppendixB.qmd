@@ -1,0 +1,20 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Appendices to Discussion {#sec-appC}
+
+## Additional figure 
+
+```{r echo = FALSE, fig.pos="H"}
+#| label: fig-speed-limit
+#| fig-cap: London road speed limits 2016, 2018, 2020 and 2022 with 20mph roads coloured green (Mapping London 2020 & TfL 2022)
+knitr::include_graphics(path = "../Figures/fig_speed_limits.png")
+
+```
+
+Mapping London 2020. Speed Limit Map. Available from: http://mappinglondon.co.uk/2017/speed-limit-map/?utm_source=dlvr.it&utm_medium=twitter
+
+TfL 2022. London speed limits May 2022. Available from: https://content.tfl.gov.uk/london-digital-speed-limit-map.pdf

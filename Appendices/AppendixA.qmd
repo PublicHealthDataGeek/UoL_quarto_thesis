@@ -1,0 +1,53 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Appendices to Paper 3 (chapter 4) {#sec-appA}
+
+
+## Exclusion criteria for OpenStreetMap highways
+
+We started with the OSM lines dataset. We removed any non-highways OSM
+lines that were coded as: "dam", "lock_gate", "gate", "handrail" or
+"fence".
+
+We removed any highways that were coded as:
+
+-   Footway
+
+-   Steps
+
+-   Elevator
+
+-   Track (this is off road, mainly for agricultural vehicles)
+
+-   Proposed (as this means they have not been built)
+
+-   Construction (as this means they are under construction)
+
+-   Bridleways (as this as usually off road tracks for horse riders)
+
+We removed any highways where the surface was coded as:
+
+-   Gravel, fine gravel, grit or loose-surface
+
+-   Dirt
+
+-   Grass or grass-paver
+
+## Additional figures 
+
+```{r echo = FALSE, out.width= "100%", fig.align="center", fig.pos="H"}
+#| label: fig-P3-cf_cVl-trips-oneway
+#| fig-cap: Monthly variation in observed commute and leisure contraflow Strava trip counts on each former one-way road segments before (pale colours)and after (darker colours) contraflow introduction (month of transition shown as vertical grey line)
+
+knitr::include_graphics(path = "../Figures/fig_P3_contra_commuteVleisure_oneway.jpeg")
+```
+
+```{r echo = FALSE, out.width= "100%", fig.align="center", fig.pos="H"}
+#| label: fig-P3-cf_cVl-trips-twoway
+#| fig-cap: Monthly variation in observed commute and leisure contraflow Strava trip counts on each former two-way road segments before (pale colours)and after (darker colours) contraflow introduction (month of transition shown as vertical grey line)
+knitr::include_graphics(path = "../Figures/fig_P3_contra_commuteVleisure_twoway.jpeg")
+```

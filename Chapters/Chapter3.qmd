@@ -1,0 +1,8 @@
+# Paper 2: Contraflows and cycling safety: Evidence from 22 years of data involving 508 one-way streets {#sec-Chapter3}
+
+*Here I am showing that you can insert pdfs of published papers or other pdfs. This is managed via the \_quarto.yml file.*
+
+*More info on how to do this (it is already done for you in the *\_quarto.yml*) and how to make changes to how the pdfs look can be found here: *
+[https://github.com/nmfs-opensci/quarto-thesis/issues/3](https://github.com/nmfs-opensci/quarto-thesis/issues/3)
+
+\includepdf[pages=-,pagecommand={},width=190mm,height=280mm]{pdfs/Paper_2.pdf}

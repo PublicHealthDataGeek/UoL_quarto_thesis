@@ -1,0 +1,66 @@
+project:
+  type: book
+  output-dir: .
+
+book:
+  title: Put your PhD title here
+  author:
+    name: Your name
+  cover-image: images/logo.png
+  downloads: [pdf]
+  abstract: |
+    This is where you type your abstract.... 
+    
+    this is where you type the second paragraph of your abstract...
+    
+    here is where your third one goes....etc etc 
+  chapters:
+    - index.qmd
+    - Chapters/Chapter2.qmd # you can comment out these chapters or appendices if you dont want it all built at once
+    - Chapters/Chapter3.qmd
+    - Chapters/Chapter4.qmd
+    - Chapters/Chapter5_disc_conc.qmd
+  appendices:
+    - Appendices/AppendixA.qmd
+    - Appendices/AppendixB.qmd
+
+  site-url: https://nmfs-opensci.github.io/quarto-thesis/
+  repo-url: https://github.com/nmfs-opensci/quarto-thesis
+  repo-actions: [edit, source, issue]
+  search: true
+
+thesis:
+  degree-name: Doctor of Philosophy
+  university: University of Leeds
+  department: School of Geography
+  group: 
+  faculty: 
+  declaration: "Frontmatter/declaration.tex"
+  acknowledgements: "Frontmatter/acknowledgements.tex"
+  abbreviations: "Frontmatter/abbreviations.tex"
+  symbols: "Frontmatter/symbols.tex"
+  dedication: "Frontmatter/dedication.tex"
+
+bibliography: [example.bib]
+csl: harvard-university-of-leeds.csl
+
+execute:
+  echo: false
+  code-overflow: wrap
+
+# urlcolor changes the url color in the body of the PDF
+# linkcolor changes color of internal links (like to figures)
+# toclinkcolor changes color of toc, lof and lot links
+format:
+  quarto-thesis-pdf: 
+    urlcolor: black
+    toclinkcolor: black
+    toc-depth: 3
+    classoption: [onehalfspacing, oneside]
+    citeproc: false # these needs adding so that end reference list disappears
+    filters:
+       - section-bibliographies # create references for each chapter
+    reference-section-title: References # title for references at end of each section
+    include-in-header: 
+          text: |
+            \usepackage[final]{pdfpages}

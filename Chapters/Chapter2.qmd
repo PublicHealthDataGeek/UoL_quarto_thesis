@@ -1,0 +1,23 @@
+# Introduction - I have included an extract of my thesis so you can see how it is coded and looks....
+
+This thesis examines the evaluation of cycling infrastructure with large observational data. Part 1 of this introductory chapter explores the background, starting broadly with the history of cycling before narrowing its geographical focus to England and subject focus to cycling infrastructure and the evidence base for its effectiveness in terms of cyclist safety and participation. Part 2 of the Introduction builds on these foundations, developing the research rationale through highlighting the gaps in this evidence base. It describes the importance of data in evaluating such infrastructure and potential for London as a setting for such an evaluation. It then defines the thesis aim and research questions, linking the questions to the research gaps and outlining the principles that have underpinned the research. Finally it describes the research strategy, thesis structure and outputs.
+
+The Introduction is followed by three chapters each containing a discrete piece of research that evaluates cycling infrastructure with large observational data. Chapter 2 (Paper 1) examines what cycling infrastructure exists in London using a new database and evaluates it against design standards. This paper has been published in the Journal of Transport & Health. Chapter 3 (Paper 2) examines the effect of a specific type of cycling infrastructure, contraflow cycling where cyclists can travel against the flow of motor vehicles on one-way streets, on cyclist safety using crash and casualty datasets. This paper has been published in Accident Analysis & Prevention. Chapter 4 (Paper 3) also examines the effect of introducing contraflow cycling but instead looks at cycling volume using crowd-sourced data. This paper is ready to submit to the Journal of Transport & Health.
+
+Chapter 5 is the Discussion that brings the preceding chapters and research together into a coherent evaluation of cycling infrastructure with large observational datasets. It discusses the key findings, strengths, limitations, policy implications and research recommendations. Chapter 6 is the Conclusion.
+
+```{=tex}
+\begin{center}
+\LARGE 
+\textbf{Part 1: Background}
+\end{center}
+```
+Part 1 of the Introduction provides the background to this thesis. It focuses on cycling as a physical activity and mode of transport and the popularity of cycling in different countries before examining cycling in England, the country studied in this thesis. It considers the importance of cycling and why the English government appears to be keen to encourage participation before discussing approaches to getting more people cycling and their implementation in England. Having identified safety and infrastructure as key barriers for individuals taking up cycling, it discusses infrastructure and the evidence base around its effectiveness on cycling participation and safety, both actual and perceived.
+
+## The bicycle and cycling
+
+### History of the bicycle
+
+The exact origins of the bicycle are unknown but it has been suggested that it was invented out of necessity for a horse-less form of transport in the 1800s in Europe [@malizia2020]. During that century, design advancements such as pedals, the indirect drive system, wire wheels and pneumatic tyres meant that the modern bicycle came into existence [@malizia2020; @vannierop1997]. This evolution cemented the bicycle for utility and facilitated the popularity of cycling for recreation, touring and racing by individuals and groups [@oosterhuis2016; @ritchie1999]. Cyclists were central to the development of roads suitable for bicycles (and subsequently cars) and improvements in road quality [@reid2015]. Bicycles have evolved further with specialisations for different types of cycling such a racing or bmxing [@lindsey2022]; transportation such as cargo bikes [@cox2015]; and adaptive bicycles that support those who cannot use conventional bicycles [@rodger2014]. More recent innovations include bike sharing schemes [@fishman2013] and electric bikes [@fishman2016].
+
+................................................................................
