@@ -7,7 +7,7 @@ https://github.com/nmfs-opensci/quarto-thesis
 
 The pdf of the what these template files generate available as *"Put-your-Phd_title-here.pdf"*  
 
-
+You need to follow her instructions below to get it to work on your laptop. 
 
 
 ## The below text is a copy of the text she held on her quarto-thesis repo on 21/03/2023.  You may wish to look at the repo to see if anything has changed.  
@@ -16,9 +16,7 @@ Quarto extension for a masters or PhD thesis based on Masters/Doctoral Thesis, L
 
 ## Quick Start!
 
-* Show me how to download a zip and open in RStudio: [Video](https://youtu.be/33l8GhtUfnU)
 * Show me how to use this repo as a template and then clone to my computer with RStudio: [Video](https://youtu.be/smzNQtogSaI)
-* Show me how to render in Visual Studio Code (see previous videos for how to get the repo onto your computer): [Video](https://youtu.be/IJe3A8-Ee2E)
 
 
 ## Installing the extension
