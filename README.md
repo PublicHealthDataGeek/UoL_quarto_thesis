@@ -5,12 +5,12 @@ I generated this template to support other UoL students who may wish to write th
 It was derived from the excellent quarto-thesis template created by Dr Eli Holmes.  Her original repo is here:   
 https://github.com/nmfs-opensci/quarto-thesis
 
-The pdf of the what these template files generate available as *"Put-your-Phd_title-here.pdf"*  
+The pdf of the what these template files generate available in this repo as *"Put-your-Phd_title-here.pdf"*  
 
 You need to follow her instructions below to get it to work on your laptop. 
 
 
-## The below text is a copy of the text she held on her quarto-thesis repo on 21/03/2023.  You may wish to look at the repo to see if anything has changed.  
+## The below text is a copy of the text some of the held on her quarto-thesis repo on 21/03/2023.  You may wish to look at the repo to see if anything has changed.  
 
 Quarto extension for a masters or PhD thesis based on Masters/Doctoral Thesis, LaTeX Template, Version 2.5 (27 Aug 2017). You can play with it on RStudio Cloud without installing anything: https://rstudio.cloud/content/4383755  Go to the Build tab (upper right panel) and click Render Book.
 
@@ -56,15 +56,6 @@ If you think it's a bug, then definitely post an issue and I'll look into it!
 [![Contributors](https://contrib.rocks/image?repo=nmfs-opensci/quarto-thesis)](https://github.com/nmfs-opensci/quarto-thesis/graphs/contributors)
 
 This template is based on the [Masters/Doctoral Thesis, LaTeX Template, Version 2.5 (27 Aug 2017)](https://www.latextemplates.com/template/masters-doctoral-thesis). Other Quarto thesis examples:
-
-
-## Problems
-
-* All the stuff in Frontmatter is mandatory LaTeX since it is being injected into the tex document after the qmd is processed. Probably need to learn how to write a lua filter to render the Frontmatter qmd to LaTeX via Pandoc.
-
-* I doubt that passing in `classoptions` in your `_quarto.yml` will work. The [elsevier lua filter](https://github.com/quarto-journals/elsevier/blob/main/_extensions/elsevier/elsevier.lua) suggests that the classoptions need to be added on.
-
-* Why does `index-blx.bib` keep appearing?
 
 ## Warning. Chapter 1 has R code
 
