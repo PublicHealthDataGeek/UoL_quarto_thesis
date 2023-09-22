@@ -29,7 +29,10 @@ knitr::include_graphics(path = "../Figures/fig_speed_limits.png")
 ```
 
 
-This quarto document is set up so the references will display at the end of each chapter (I cant remember if this is a requirement for all UoL thesis or just those by publication). This is controlled via the I used zotero as my reference manager when I added a reference in quarto then it populated the *example.bib* file. However if you go to the original repo created by Dr Holmes and use that version then the references will all appear at the end. 
+This quarto document is set up so the references will display at the end of each chapter (I cant remember if this is a requirement for all UoL thesis or just those by publication). This is controlled via the *_quarto.yml* file and the *_extensions/pandoc-ext* folder.  However, you may need to install the pandoc extension so that this works. This is available here:
+[https://github.com/pandoc-ext/section-bibliographies](https://github.com/pandoc-ext/section-bibliographies)
+
+I used zotero as my reference manager when I added a reference in quarto then it populated the *example.bib* file. However if you go to the original repo created by Dr Holmes and use that version then the references will all appear at the end of your thesis. 
 
 If you want to add multiple paragraphs in your abstract then look at this:
 [https://github.com/nmfs-opensci/quarto-thesis/discussions/16](https://github.com/nmfs-opensci/quarto-thesis/discussions/16)
