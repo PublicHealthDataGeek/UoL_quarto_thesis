@@ -39,7 +39,8 @@ If you want to add multiple paragraphs in your abstract then look at this:
 
 Dr Holmes is super helpful and has a discussion board on her repo so you can ask questions. There are also questions in the 'issues' part of the repo. 
 
-
+To change the date of PhD submission on the title page you need to edit the date in this file on lines 20/21:
+*/_extensions/quarto-thesis/partials/before-body.tex*
 
 
 
